@@ -24,3 +24,4 @@ if(phone.match(/\(?\d{3}\)?\s?\d{3}\-?\s?\d{4}/)==nil)
 else 
   return true
 end
+end
